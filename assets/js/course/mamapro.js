@@ -86,9 +86,29 @@ $(document).ready(function() {
 
 
 
-   const player_o7 = new Plyr(".player_o7",{
+   const player_o1 = new Plyr(".player_o1",{
       fullscreen: {iosNative: true},
       controls: ['play-large'],
-      poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
+      // poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
+   });
+   const player_o2 = new Plyr(".player_o2",{
+      fullscreen: {iosNative: true},
+      controls: ['play-large'],
+      // poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
+   });
+   const player_o3 = new Plyr(".player_o3",{
+      fullscreen: {iosNative: true},
+      controls: ['play-large'],
+      // poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
+   });
+   const player_o4 = new Plyr(".player_o4",{
+      fullscreen: {iosNative: true},
+      controls: ['play-large'],
+      // poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
+   });
+   const player_o5 = new Plyr(".player_o5",{
+      fullscreen: {iosNative: true},
+      controls: ['play-large'],
+      // poster: '/assets/img/result/chrome_0oD9KqL9vH.jpg',
    });
 

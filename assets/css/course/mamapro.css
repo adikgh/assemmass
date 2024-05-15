@@ -236,8 +236,9 @@
 .blo2{
 	position: relative;
 	width: 100%;
+	min-height: 880px;
 	color: var(--wh);
-	padding-bottom: 30px;
+	/* padding-bottom: 30px; */
 	/* margin-top: 30px; */
 }
 .blo2a{
@@ -462,7 +463,7 @@
 	position: relative;
 	width: 100%;
 	margin-top: 20px;
-	background: var(--cm1);
+	background: var(--gr1);
 	padding: 15px 20px;
 	border-radius: 12px;
 }
@@ -963,11 +964,12 @@
 }
 .kaspi_red_card{
 	position: relative;
-	width: 62px;
-	height: 44px;
-	background-size: 100% auto;
-	background-position: center center;
-	background-repeat: no-repeat;
+    width: 66px;
+    height: 38px;
+    background-size: 100% auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
 }
 @media (max-width: 375px) {
 	.blo8_cip_btn .btn_cl{padding:0 12px}
