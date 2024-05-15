@@ -26,10 +26,10 @@
                </div>
                <div class="blo5_cciho">Подготовка</div>
                <ul class="blo5_ccl">
-                  <li>Обо мне</li>
-                  <li>В каком формате будет проходить обучение</li>
-                  <li>Как подготовиться к обучению</li>
-                  <li>Какие снаряжения нужны для обучени</li>
+                  <li>Приветствие</li>
+                  <li>Как будет проходить обучение</li>
+                  <li>Как сдавать домашнее задание</li>
+                  <li>Что необходимо для занятий</li>
                </ul>
             </div>
             <div class="blo5_cci">
@@ -41,11 +41,11 @@
                </div>
                <div class="blo5_cciho">Теория</div>
                <ul class="blo5_ccl">
-                  <li>На каком уровне ваши знания</li>
+                  <li>Все про ваши занятия</li>
                   <li>Что такое моторный онтогенез?</li>
-                  <li>Как взаимодействовать специалисту с малышом</li>
+                  <li>Взаимодействие с малышом</li>
                   <li>Хендлинг</li>
-                  <li>Индикаторы нормы развития</li>
+                  <li>Нормы развития по моторному онтогенезу</li>
                </ul>
             </div>
             <div class="blo5_cci">
@@ -57,10 +57,9 @@
                </div>
                <div class="blo5_cciho">Диагностика</div>
                <ul class="blo5_ccl">
+                  <li>Про осмотр малыша</li>
                   <li>Осмотр малыша</li>
-                  <li>Осмотр малыша по месяцам</li>
-                  <li>Двигательные дефициты</li>
-                  <li>Достижение цели</li>
+                  <li>Про цели на занятиях</li>
                </ul>
             </div>
             <div class="blo5_cci">
@@ -68,22 +67,6 @@
                   <div class="blo5_ccihci">
                      <i class="fas fa-play-circle"></i>
                      <p>Модуль 4</p>
-                  </div>
-               </div>
-               <div class="blo5_cciho">Патологии</div>
-               <ul class="blo5_ccl">
-                  <li>Гипертонус</li>
-                  <li>Дистония</li>
-                  <li>Привычный наклон головы</li>
-                  <li>Пупочная грыжа</li>
-                  <li>Гипотонус</li>
-               </ul>
-            </div>
-            <div class="blo5_cci">
-               <div class="blo5_ccih">
-                  <div class="blo5_ccihci">
-                     <i class="fas fa-play-circle"></i>
-                     <p>Модуль 5</p>
                   </div>
                </div>
                <div class="blo5_cciho">Массаж. Фитбол</div>
@@ -97,7 +80,7 @@
                <div class="blo5_ccih">
                   <div class="blo5_ccihci">
                      <i class="fas fa-play-circle"></i>
-                     <p>Модуль 6</p>
+                     <p>Модуль 5</p>
                   </div>
                </div>
                <div class="blo5_cciho">Навыковая гимнастика</div>
@@ -106,6 +89,22 @@
                   <li>3-6 месяцев</li>
                   <li>6-9 месяцев</li>
                   <li>от 9 месяцев</li>
+               </ul>
+            </div>
+            <div class="blo5_cci">
+               <div class="blo5_ccih">
+                  <div class="blo5_ccihci">
+                     <i class="fas fa-play-circle"></i>
+                     <p>Модуль 6</p>
+                  </div>
+               </div>
+               <div class="blo5_cciho">Патологии</div>
+               <ul class="blo5_ccl">
+                  <li>Гипертонус</li>
+                  <li>Дистония</li>
+                  <li>Привычный наклон головы</li>
+                  <li>Пупочная грыжа</li>
+                  <li>Гипотонус</li>
                </ul>
             </div>
             <div class="blo5_cci">

@@ -83,7 +83,7 @@
    </div>
 
    <div class="blo2">
-      <div class="blo2a lazy_img" data-src="/assets/img/bag/IMG_4417.JPG"></div>
+      <div class="blo2a lazy_img" data-src="/assets/img/bag/IMG_1959.JPG"></div>
       <div class="bl_c">
          <div class="head_c">
             <h4>Моя миссия</h4>
@@ -95,23 +95,56 @@
          </div>
       </div>
    </div>
-   
-   <!-- <div class="blo2">
-      <div class="blo2a lazy_img" data-src="/assets/img/bag/depositphotos_239291832-stock-photo-little-children-playing-superhero-kids.jpg"></div>
+
+   <div class="blo7">
       <div class="bl_c">
-         <div class="head_c">
-            <h4>Моя миссия</h4>
-            <p></p>
+         <div class="head_c txt_c">
+            <h4>Результаты</h4>
          </div>
-         <div class="blo2_c">
-            <div>Помогать детям развиваться физически правильно, что я и делаю в течении 15 лет, а так же своей самоцелью я считаю передать свои накопленные знаниями новичкам в этом непростом, но очень интересном деле, что бы мы, совместными усилиями, смогли помочь как можно большему количеству детей, быть здоровыми!</div>
-            <div>Путь мой был нелёгок, от простой девочки с маленького города Тараз, которая шла маленькими шашками к своим целям, я дошла до уверенной в себе и в своих силах специалиста. С раннего детства я хотела стать врачом. Но увы по настоянию родителей получила высшее образование по профессии бухгалтера.</div>
-            <div>Будучи студенткой вышла замуж и родила сына. По назначению врача возила своего сына на массаж. Наблюдая за развитием сына, и пользой массажа, у меня появилось огромное желание помогать детям. Я, конечно же, спустя годы, не оставила свою мечту и поступила в Алматинский колледж на фельдшера. После окончания я уже знала, что буду заниматься детским массажем. После окончания нескольких курсов массажа началась моя деятельность, как массажиста, а в последующем и двигательного терапевта.</div>
-            <div>Благодаря ежедневному ведению страницы инстаграмм; положительным отзывам, доверию мамочек, ежегодному повышению квалификации в год по 2/3 раза, у лучших специалистов, моему профессионализму и любви к своей работе у меня сейчас записи на 2 месяца вперед.</div>
-            <a class="btn btn_back" href="#price">Хочу на курс</a>
+         <div class="blo7_c">
+            <div class="swiper blo7_Swiper">
+               <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-14-52.jpg"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-15-00.jpg"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="player_o1" data-plyr-provider="youtube" data-plyr-embed-id="iA2gqMqNXp8"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="player_o2" data-plyr-provider="youtube" data-plyr-embed-id="cdJAGuF6ZKE"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="player_o3" data-plyr-provider="youtube" data-plyr-embed-id="85DPQJAv9YQ"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="player_o4" data-plyr-provider="youtube" data-plyr-embed-id="_8wSebzwDVE"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="player_o5" data-plyr-provider="youtube" data-plyr-embed-id="hcS9qVoJhPQ"></div>
+                  </div>
+               </div>
+               <div class="swiper-pagination o7_pagination"></div>
+            </div>
          </div>
       </div>
-   </div> -->
+   </div>
+   
+   <div class="blo2 blo23">
+      <!-- <div class="blo2a lazy_img" data-src="/assets/img/bag/depositphotos_239291832-stock-photo-little-children-playing-superhero-kids.jpg"></div> -->
+      <div class="bl_c">
+         <div class="head_c">
+            <h4>Путь мой был нелёгок</h4>
+         </div>
+         <div class="blo2_c">
+            <div>От простой девочки с маленького города Тараз, которая шла маленькими шашками к своим целям, я дошла до уверенной в себе и в своих силах специалиста. С раннего детства я хотела стать врачом. Но увы по настоянию родителей получила высшее образование по профессии бухгалтера.</div>
+            <div>Будучи студенткой вышла замуж и родила сына. По назначению врача возила своего сына на массаж. Наблюдая за развитием сына, и пользой массажа, у меня появилось огромное желание помогать детям. Я, конечно же, спустя годы, не оставила свою мечту и поступила в Алматинский колледж на фельдшера. После окончания я уже знала, что буду заниматься детским массажем. После окончания нескольких курсов массажа началась моя деятельность, как массажиста, а в последующем и двигательного терапевта.</div>
+            <div>Благодаря ежедневному ведению страницы инстаграмм; положительным отзывам, доверию мамочек, ежегодному повышению квалификации в год по 2/3 раза, у лучших специалистов, моему профессионализму и любви к своей работе у меня сейчас записи на 2 месяца вперед.</div>
+         </div>
+      </div>
+   </div>
 
    <? include "program.php"; ?>
 
@@ -205,41 +238,6 @@
       </div>
    </div>
 
-   <div class="blo7">
-      <div class="bl_c">
-         <div class="head_c txt_c">
-            <h4>Результаты</h4>
-         </div>
-         <div class="blo7_c">
-            <div class="swiper blo7_Swiper">
-               <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-14-52.jpg"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-15-00.jpg"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="player_o1" data-plyr-provider="youtube" data-plyr-embed-id="iA2gqMqNXp8"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="player_o2" data-plyr-provider="youtube" data-plyr-embed-id="cdJAGuF6ZKE"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="player_o3" data-plyr-provider="youtube" data-plyr-embed-id="85DPQJAv9YQ"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="player_o4" data-plyr-provider="youtube" data-plyr-embed-id="_8wSebzwDVE"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="player_o5" data-plyr-provider="youtube" data-plyr-embed-id="hcS9qVoJhPQ"></div>
-                  </div>
-               </div>
-               <div class="swiper-pagination o7_pagination"></div>
-            </div>
-         </div>
-      </div>
-   </div>
 
    <? $bl = db::query("SELECT * FROM `word_blocks` WHERE name = 'quiz1'"); ?>
    <? if (mysqli_num_rows($bl)): ?>

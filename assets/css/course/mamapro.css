@@ -236,7 +236,7 @@
 .blo2{
 	position: relative;
 	width: 100%;
-	min-height: 880px;
+	height: 700px;
 	color: var(--wh);
 	/* padding-bottom: 30px; */
 	/* margin-top: 30px; */
@@ -255,9 +255,21 @@
 	-moz-filter: brightness(70%);
 }
 
-.blo2 .head_c{
-	padding-top: 30px;
+
+.blo2 .bl_c{
+	height: 100%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-end;
+	flex-direction: column;
+	padding-bottom: 30px;
 }
+
+.blo2 .head_c{
+	padding-top: 0;
+}
+
+
 
 
 .blo2_c{
@@ -281,6 +293,54 @@
 	color: var(--wh);
 	text-decoration: underline;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+.blo23{
+	background: #f5f5f5;
+	color: var(--bl);
+	padding-top: 40px;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -645,9 +705,9 @@
 .blo7{
 	position: relative;
 	width: 100%;
-	background: var(--gr1);
+	/* background: var(--gr1); */
 	padding-bottom: 40px;
-	margin-top: 40px;
+	/* margin-top: 40px; */
 }
 .blo7_c{
 	position: relative;
@@ -667,7 +727,7 @@
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 	border-radius: 14px;
 	overflow: hidden;
-	padding-bottom: 100%;
+	padding-bottom: 135%;
 }
 
 .swiper-slide .lz_o7 {
@@ -982,6 +1042,8 @@
 .blo10{
 	position: relative;
 	width: 100%;
+	background: #f5f5f5;
+	margin-top: 40px;
 }
 .blo10 .head_c{padding-bottom:10px}
 
