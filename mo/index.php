@@ -83,7 +83,7 @@
    </div>
 
    <div class="blo2">
-      <div class="blo2a lazy_img" data-src="/assets/img/bag/IMG_1959.JPG"></div>
+      <div class="blo2a lazy_img" data-src="/assets/img/bag/IMG_1959 2.jpg"></div>
       <div class="bl_c">
          <div class="head_c">
             <h4>Моя миссия</h4>
