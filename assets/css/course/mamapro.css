@@ -296,6 +296,21 @@
 
 
 
+.blo2_cu5{
+	position: relative;
+	width: 100%;
+}
+.blo2_cu5i{
+	position: relative;
+	width: 100%;
+	padding-bottom: 60%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 16px;
+}
+
+
 
 
 
