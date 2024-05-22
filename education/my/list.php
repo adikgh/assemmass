@@ -4,7 +4,7 @@
 	if (!$user_right) header('location: /education/');
 
 	// course 
-	$cours = db::query("select * from course ORDER BY number DESC");
+	$cours = db::query("select * from course where arh is null ORDER BY number DESC");
 
 
 	// Сайттың баптаулары

@@ -60,21 +60,6 @@
 					</div>
 
 					<div class="uitemci_ckb">
-						<? if ($buy_d['view']) $precent = round(100 / ($course_d['item'] / $buy_d['view'])); ?>
-						<div class="uitemci_ckb2">
-							<div class="itemci_ls">
-								<? if ($course_d['arh']): ?> <div class="itemci_lsi itemci_lsi_arh">Курс архивте</div> <? endif ?>
-								<? if ($course_d['item']): ?> <div class="itemci_lsi"><?=($buy_d['view']?$buy_d['view'].'/':'')?><?=$course_d['item']?> сабақ</div> <? endif ?>
-								<? if ($course_d['test']): ?> <div class="itemci_lsi"><?=$course_d['test']?> тест</div> <? endif ?>
-								<? if ($course_d['assig']): ?> <div class="itemci_lsi"><?=$course_d['assig']?> тапсырма</div> <? endif ?>
-							</div>
-							<? if ($buy_d['view']): ?> <div class=""><?=$precent?>%</div> <? endif ?>
-						</div>
-						<? if ($buy_d['view']): ?>
-							<div class="uitemci_time_b">
-								<div class="uitemci_time_b2" style="width:<?=$precent?>%"></div>
-							</div>
-						<? endif ?>
 					</div>
 
 				</div>

@@ -12,22 +12,22 @@
 
 
 	// filter user all
-	if ($_GET['on'] == 1) $cours_sub_all = db::query("select * from course_pay where course_id = '$cours_id' and off is null");
-	elseif ($_GET['off'] == 1) $cours_sub_all = db::query("select * from course_pay where course_id = '$cours_id' and off is not null");
+	if (@$_GET['on'] == 1) $cours_sub_all = db::query("select * from course_pay where course_id = '$cours_id' and off is null");
+	elseif (@$_GET['off'] == 1) $cours_sub_all = db::query("select * from course_pay where course_id = '$cours_id' and off is not null");
 	else $cours_sub_all = db::query("select * from course_pay where course_id = '$cours_id'");
 	$page_result = mysqli_num_rows($cours_sub_all);
 
 	// page number
-	$page = 1; if ($_GET['page'] && is_int(intval($_GET['page']))) $page = $_GET['page'];
+	$page = 1; if (isset($_GET['page']) && $_GET['page'] && is_int(intval($_GET['page']))) $page = $_GET['page'];
 	$page_age = 50;
 	$page_all = ceil($page_result / $page_age);
-	if ($page > $page_all) $page = $page_all;
+	if ($page > $page_all && $page_all != 0) $page = $page_all;
 	$page_start = ($page - 1) * $page_age;
 	$number = $page_start;
 
 	// filter cours
-	if ($_GET['on'] == 1) $cours_sub = db::query("select * from course_pay where course_id = '$cours_id' and off is null order by ins_dt desc limit $page_start, $page_age");
-	elseif ($_GET['off'] == 1) $cours_sub = db::query("select * from course_pay where course_id = '$cours_id' and off is not null order by ins_dt desc limit $page_start, $page_age");
+	if (@$_GET['on'] == 1) $cours_sub = db::query("select * from course_pay where course_id = '$cours_id' and off is null order by ins_dt desc limit $page_start, $page_age");
+	elseif (@$_GET['off'] == 1) $cours_sub = db::query("select * from course_pay where course_id = '$cours_id' and off is not null order by ins_dt desc limit $page_start, $page_age");
 	else $cours_sub = db::query("select * from course_pay where course_id = '$cours_id' order by ins_dt desc limit $page_start, $page_age");
 
 
@@ -173,6 +173,7 @@
 				<? endif ?>
 				
 			<? else: ?>
+				<br><br>
 				Нет никого
 			<? endif ?>
 		</div>

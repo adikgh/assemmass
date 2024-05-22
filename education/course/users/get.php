@@ -14,8 +14,8 @@
 		$cours_name = $cours['name_'.$lang];
 		$days = $cours['access'];
 		$end_dt = date('Y-m-d H:i:s', strtotime("$datetime +$days day"));
-		$mess = "Доступ к курсу $cours_name открыт. Ссылка: https://bnurbanu.kz/?c=$cours_id";
-		$mess2 = "Доступ к курсу $cours_name открыт.\nВаш номер доступа: $phone\nСсылка: https://bnurbanu.kz/?c=$cours_id";
+		$mess = "Доступ к курсу $cours_name открыт. Ссылка: https://assem-academy.kz/?c=$cours_id";
+		$mess2 = "Доступ к курсу $cours_name открыт.\nВаш номер доступа: $phone\nСсылка: https://assem-academy.kz/?c=$cours_id";
 
 		$user = db::query("SELECT * FROM `user` WHERE phone = '$phone'");
 		if (mysqli_num_rows($user)) {
@@ -58,8 +58,8 @@
 		$days = $cours['access'];
 		$end_dt = date('Y-m-d H:i:s', strtotime("$datetime +$days day"));
 
-		$mess = "Cізге «$cours_name.» курсына доступ ашылды. \nСілтеме: https://aruacademy.kz/?cm=$cours_id&mail. \nҚайырлы білім болсын!";
-      $mess2 = "Cізге «$cours_name.» курсына доступ ашылды. \nСайтқа $mail почтаңыз арқылы кіріңіз. \nСілтеме: https://aruacademy.kz/?cml=$cours_id&mail. \nҚайырлы білім болсын!";
+		$mess = "Cізге «$cours_name.» курсына доступ ашылды. \nСілтеме: https://assem-academy.kz/?cm=$cours_id&mail. \nҚайырлы білім болсын!";
+      $mess2 = "Cізге «$cours_name.» курсына доступ ашылды. \nСайтқа $mail почтаңыз арқылы кіріңіз. \nСілтеме: https://assem-academy.kz/?cml=$cours_id&mail. \nҚайырлы білім болсын!";
 
 		$user = db::query("SELECT * FROM `user` WHERE mail = '$mail'");
 		if (mysqli_num_rows($user) != 0) {
@@ -116,7 +116,7 @@
 		$phone = $user_date['phone'];
 		$code = $user_date['code'];
 
-		$mess = "Иммунити курсы.\nТексеру коды: $code\nСілтеме: https://aruacademy.kz/l/?c=$cours_id";
+		$mess = "Иммунити курсы.\nТексеру коды: $code\nСілтеме: https://assem-academy.kz/l/?c=$cours_id";
 		list($sms_id, $sms_cnt, $cost, $balance) = send_sms($phone, $mess, 0, 0, 0, 0, false);
 
 		echo 'yes';
@@ -137,7 +137,7 @@
 	// 		$phone = $user_date['phone'];
 	// 		$code = $user_date['code'];
 	
-	// 		$mess = "Иммунити курсы.\nТексеру коды: $code\nСілтеме: https://aruacademy.kz/?c=$cours_id";
+	// 		$mess = "Иммунити курсы.\nТексеру коды: $code\nСілтеме: https://assem-academy.kz/?c=$cours_id";
 	// 		list($sms_id, $sms_cnt, $cost, $balance) = send_sms($phone, $mess, 0, 0, 0, 0, false);
 
 	// 	}

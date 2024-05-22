@@ -90,6 +90,11 @@
         'footer' => true,
         'utopu' => true,
         'cl_wh' => false,
+        'plyr' => false,
+        'swiper' => false,
+        'autosize' => false,
+        'pmenu' => false,
+        'utop_bk' => false,
     ];
     $css = [];
     $js = [];
