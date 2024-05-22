@@ -63,7 +63,7 @@
 			if ($user_d['password'] && $user_d['type_aut'] != 'code') echo 'pass';
 			elseif (($user_d['code'] && $user_d['sms']) || $user_d['type_aut'] == 'code') echo 'code';
 			else {
-				$mess = "Dr. Moldir | Тексеру коды: $code";
+				$mess = "Assem Academy | Код: $code";
 				$sms_send = list($sms_id, $sms_cnt, $cost, $balance) = send_sms($phone, $mess, 0, 0, 0, 0, false);
 				if ($sms_send[1] <= 4) {
 					$ubd = db::query("UPDATE `user` SET `code`='$code', `sms`=1 WHERE phone = '$phone'");
