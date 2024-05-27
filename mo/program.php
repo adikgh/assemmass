@@ -24,7 +24,7 @@
                      <p>4 урока</p>
                   </div> -->
                </div>
-               <div class="blo5_cciho">Подготовка</div>
+               <div class="blo5_cciho">Предобучение</div>
                <ul class="blo5_ccl">
                   <li>Приветствие</li>
                   <li>Как будет проходить обучение</li>

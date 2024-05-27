@@ -52,28 +52,64 @@
    <div class="blo3">
       <div class="bl_c">
          <div class="head_c txt_c">
-            <h4>Преимущества моего курса</h4>
+            <h4>Мои сильные стороны</h4>
          </div>
          <div class="blo3_c">
             <div class="blo3_i">
                <i class="fas fa-badge-check"></i>
-               <p>Авторская методика работы с детьми, созданная мною на протяжении 15 лет</p>
+               <p>Проходила повышения у лучших специалистов по моторному онтогенезу</p>
             </div>
             <div class="blo3_i">
                <i class="fas fa-badge-check"></i>
-               <p>Безопасные,  действенные упражнения для детей</p>
+               <p>Каждый день на практике применяю знания по моторному онтогенезу</p>
             </div>
             <div class="blo3_i">
                <i class="fas fa-badge-check"></i>
-               <p>Короткие видеоуроки доступным языком</p>
+               <p>Работаю по Войта терапии</p>
             </div>
             <div class="blo3_i">
                <i class="fas fa-badge-check"></i>
-               <p>Полезные материалы, только самое главное и нужное в работе с детьми, рекомендации, нормы развития</p>
+               <p>Работаю со сложными диагнозами такими как ДЦП, гемопарез, гидроцефалия, микроцефалия</p>
             </div>
             <div class="blo3_i">
                <i class="fas fa-badge-check"></i>
-               <p>Обратная связь в течении 2х месяцев</p>
+               <p>Подбираю план занятий по моторному онтогенезу для каждого малыша индивидуально</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Опыт работы 15 лет</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>В день принимаю по 15 детей</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Запись ко мне на сеанс, за 2 месяца вперёд</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Работаю с детьми от 0 до 3х лет</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Специалист по наставничеству, которые вышли на доход в 800 тысч/месяц</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Сотни благодарных мам и отзывов  каждый месяц</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Автор онлайн интенсива</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Автор офлайн мастер-класса в городе Актау</p>
+            </div>
+            <div class="blo3_i">
+               <i class="fas fa-badge-check"></i>
+               <p>Создала свою команду сильных специалистов</p>
             </div>
             <div class="blo1_tb">
                <a class="btn" href="#price">Хочу на курс</a>
@@ -90,38 +126,60 @@
             <p></p>
          </div>
          <div class="blo2_c">
-            <div>Помогать детям развиваться физически правильно,что я и делаю в течении 15 лет;а так же своей самоцелью я считаю передать свои накопленные знаниями новичкам и повысить  знания специалистов в этом непростом ,но очень интересном деле,что бы мы, совместными усилиями,смогли помочь как можно большему количеству детей, быть здоровыми!</div>
+            <div>Моя миссия помогать детям развиваться физически правильно, что я и делаю в течении 15 лет. А так же своей самоцелью я считаю - передать свои накопленные знания новичкам и повысить  знания специалистов в этом непростом, но очень интересном деле, что бы мы, совместными усилиями, смогли помочь как можно большему количеству детей, быть здоровыми!</div>
             <a class="btn btn_back" href="#price">Хочу на курс</a>
          </div>
       </div>
    </div>
 
    
-   <div class="blo2 blo23">
+   <div class="">
       <div class="bl_c">
-         <div class="head_c">
-            <h4>Путь мой был нелёгок</h4>
+         <div class="head_c txt_c">
+            <h4>Что вы получите после обучение?</h4>
          </div>
-         <div class="blo2_c">
-            <div class="blo2_cu5">
-               <div class="blo2_cu5i lazy_img" data-src="/assets/img/bag/Frame 7 sddwe.jpg"></div>
-               <p>От простой девочки с маленького города Тараз, которая шла маленькими шашками к своим целям, я дошла до уверенной в себе и в своих силах специалиста. С раннего детства я хотела стать врачом. Но увы по настоянию родителей получила высшее образование по профессии бухгалтера.</p>
+         <div class="blo33_c">
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>1</span></div>
+               <div class="blo33_ic">После обучения сразу можете брать малышей на курс, и зарабатывать первые деньги</div>
             </div>
-            <div class="blo2_c">
-               <div class="blo2_cu5i lazy_img" data-src="/assets/img/bag/Frame 7 sw.jpg"></div>
-               <p>Будучи студенткой вышла замуж и родила сына. По назначению врача возила своего сына на массаж. Наблюдая за развитием сына, и пользой массажа, у меня появилось огромное желание помогать детям. Я, конечно же, спустя годы, не оставила свою мечту и поступила в Алматинский колледж на фельдшера.</p>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>2</span></div>
+               <div class="blo33_ic">Повысить свой чек уже во время курса</div>
             </div>
-            <div class="blo2_c">
-               <div class="blo2_cu5i lazy_img" data-src="/assets/img/bag/Frame 7 swww.jpg"></div>
-               <p>После окончания я уже знала, что буду заниматься детским массажем. После окончания нескольких курсов массажа началась моя деятельность, как массажиста, а в последующем и двигательного терапевта.</p>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>3</span></div>
+               <div class="blo33_ic">Работать с детками со сложными диагнозами т.к пройдёте модуль Войта терапии, вы будете уверены, что поможете таким малышам</div>
             </div>
-            <div class="blo2_c">
-               <div class="blo2_cu5i lazy_img" data-src="/assets/img/bag/Frame  w3.jpg"></div>
-               <p>Благодаря ежедневному ведению страницы инстаграмм; положительным отзывам, доверию мамочек, ежегодному повышению квалификации в год по 2/3 раза, у лучших специалистов, моему профессионализму и любви к своей работе у меня сейчас записи на 2 месяца вперед.</p>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>4</span></div>
+               <div class="blo33_ic">Если специалист новичок, то можно смело брать и работать с детками по моторному онтогенезу от 0 до 1,8 лет</div>
+            </div>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>5</span></div>
+               <div class="blo33_ic">После этого курс, вам нет необходимости  повышаться у других специалистов, так как всё необходимое есть на этом курсе</div>
+            </div>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>6</span></div>
+               <div class="blo33_ic">Научитесь исправлять часто встречающиеся задержки в моторном развитие детей, за короткое время, к примеру неправильное ползанье</div>
+            </div>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>7</span></div>
+               <div class="blo33_ic">Повысится уверенность в себе и в своей работе и знаниях</div>
+            </div>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>8</span></div>
+               <div class="blo33_ic">Вы с лёгкостью сможете выйти на высокий уровень дохода</div>
+            </div>
+            <div class="blo33_i">
+               <div class="blo33_iw"><span>9</span></div>
+               <div class="blo33_ic">Результативность от вашей работы вырастит в 2 раза. Он сохраняется у вас навсегда</div>
             </div>
          </div>
       </div>
    </div>
+   
+   
 
    <? include "program.php"; ?>
 
@@ -135,25 +193,29 @@
             <div class="swiper blo7_Swiper">
                <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-14-52.jpg"></div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-15-00.jpg"></div>
+                     <div class="player_o5" data-plyr-provider="youtube" data-plyr-embed-id="hcS9qVoJhPQ"></div>
                   </div>
                   <div class="swiper-slide">
                      <div class="player_o1" data-plyr-provider="youtube" data-plyr-embed-id="iA2gqMqNXp8"></div>
                   </div>
-                  <div class="swiper-slide">
-                     <div class="player_o2" data-plyr-provider="youtube" data-plyr-embed-id="cdJAGuF6ZKE"></div>
-                  </div>
+
                   <div class="swiper-slide">
                      <div class="player_o3" data-plyr-provider="youtube" data-plyr-embed-id="85DPQJAv9YQ"></div>
                   </div>
+
+                  <div class="swiper-slide">
+                     <div class="player_o2" data-plyr-provider="youtube" data-plyr-embed-id="cdJAGuF6ZKE"></div>
+                  </div>
+
                   <div class="swiper-slide">
                      <div class="player_o4" data-plyr-provider="youtube" data-plyr-embed-id="_8wSebzwDVE"></div>
                   </div>
+
                   <div class="swiper-slide">
-                     <div class="player_o5" data-plyr-provider="youtube" data-plyr-embed-id="hcS9qVoJhPQ"></div>
+                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-14-52.jpg"></div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="lz_o7" data-src="/assets/img/result/photo_2024-05-15_18-15-00.jpg"></div>
                   </div>
                </div>
                <div class="swiper-pagination o7_pagination"></div>
@@ -227,12 +289,15 @@
             <div class="blo8_ci blo8_ci2 blo8_c78">
                <div class="blo8_cin">Тариф</div>
                <ul class="blo8_ciс">
-                  <li><i class="fal fa-plus"></i><span>Доступ 6 месяцев</span></li>
-                  <li><i class="fal fa-plus"></i><span>Обучение: 7 недель онлайн, 5 недель офлайн</span></li>
-                  <li><i class="fal fa-plus"></i><span>Книжка «Хендлинг»</span></li>
-                  <li><i class="fal fa-plus"></i><span>Домашняя задания от куратора</span></li>
-                  <li><i class="fal fa-plus"></i><span>Образная связь (ZOOM) каждую неделю</span></li>
-                  <li><i class="fal fa-plus"></i><span>Общий чат с специалистами</span></li>
+                  <li><i class="fal fa-plus"></i><span>Доступ 6 месяца</span></li>
+                  <li><i class="fal fa-plus"></i><span>Онлайн формат 7 недель, офлайн формат 5 дней</span></li>
+                  <li><i class="fal fa-plus"></i><span>Наставничество для специалистов</span></li>
+                  <li><i class="fal fa-plus"></i><span>Зум созвоны каждую неделю по 2 часа</span></li>
+                  <li><i class="fal fa-plus"></i><span>Закрепление всех полученных знаний после каждого модуля</span></li>
+                  <li><i class="fal fa-plus"></i><span>Полное погружение в тему детского массажа, моторного онтогенеза, Войта терапии</span></li>
+                  <li><i class="fal fa-plus"></i><span>Связь со мной в течении 2х месяцев</span></li>
+                  <li><i class="fal fa-plus"></i><span>Домашнее задание от меня</span></li>
+                  <li><i class="fal fa-plus"></i><span>Зум созвон сохраняется у вас навсегда</span></li>
                </ul>
                <br>
                <div class="blo8_cip">
@@ -253,26 +318,28 @@
    </div>
 
 
-   <? $bl = db::query("SELECT * FROM `word_blocks` WHERE name = 'quiz1'"); ?>
-   <? if (mysqli_num_rows($bl)): ?>
-      <div class="blo10">
-         <div class="bl_c">
-            <div class="head_c txt_c">
-               <h4>Часто задаваемые <br> вопросы</h4>
-            </div>
-            <div class="faq">
-               <? while ($bl_d = mysqli_fetch_assoc($bl)): ?>
-                  <div class="faq-a">
-                     <div class="faq-ah">
-                        <div class="faq-arrow"><i class="fal fa-plus"></i></div>
-                        <div class="faq-heading"><?=$bl_d['txt1_ru']?></div>
+   <? if(@$rtuo): ?>
+      <? $bl = db::query("SELECT * FROM `word_blocks` WHERE name = 'quiz1'"); ?>
+      <? if (mysqli_num_rows($bl)): ?>
+         <div class="blo10">
+            <div class="bl_c">
+               <div class="head_c txt_c">
+                  <h4>Часто задаваемые <br> вопросы</h4>
+               </div>
+               <div class="faq">
+                  <? while ($bl_d = mysqli_fetch_assoc($bl)): ?>
+                     <div class="faq-a">
+                        <div class="faq-ah">
+                           <div class="faq-arrow"><i class="fal fa-plus"></i></div>
+                           <div class="faq-heading"><?=$bl_d['txt1_ru']?></div>
+                        </div>
+                        <p class="faq-text"><?=$bl_d['txt2_ru']?></p>
                      </div>
-                     <p class="faq-text"><?=$bl_d['txt2_ru']?></p>
-                  </div>
-               <? endwhile ?>
+                  <? endwhile ?>
+               </div>
             </div>
          </div>
-      </div>
+      <? endif ?>
    <? endif ?>
 
 <? include "../block/footer.php"; ?>

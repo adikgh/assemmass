@@ -1316,3 +1316,170 @@
    z-index: 2;
    background: var(--wh);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blo33_c{
+	position: relative;
+	width: 100%;
+}
+.blo33_i{
+	position: relative;
+	width: 100%;
+	margin-bottom: 18px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 15px 20px;
+	border-radius: 14px;
+	/* border: 1px solid var(--gr2); */
+	
+	border-radius: 15px;
+	background: var(--wh);
+	box-shadow: 0px 18px 25px 0px rgba(169,187,217,0.2);
+	align-items: center;
+}
+.blo33_i:last-child{
+	margin-bottom: 0;
+}
+.blo33_iw{
+	position: relative;
+	width: 54px;
+	height: 54px;
+	/* background: var(--cl1); */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.blo33_iw span{
+	font-size: 40px;
+	color: var(--gr);
+	color: var(--cl);
+	display: block;
+	z-index: 2;
+}
+.blo33_iw::after{
+	z-index: 1;
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 32px;
+	height: 32px;
+	background: radial-gradient(circle closest-side, var(--cl2), #fff);
+	border-radius: 50%;
+	-webkit-animation: s658 3s infinite cubic-bezier(0.6, 0, 0, 1);
+}
+.blo33_i:nth-child(2) .blo3_iw::after{
+	animation-delay: .3s;
+}
+.blo33_i:nth-child(3) .blo3_iw::after{
+	animation-delay: .6s;
+}
+.blo33_i:nth-child(4) .blo3_iw::after{
+	animation-delay: .9s;
+}
+.blo33_i:nth-child(5) .blo3_iw::after{
+	animation-delay: 1.1s;
+}
+
+@media (max-width: 375px) {
+	.blo33_iw{
+		width: 44px;
+		height: 44px;
+		font-size: 32px;
+	}
+}
+
+@keyframes s658 {
+	0%, 100%{
+		bottom: 0;
+		left: 0;
+	}
+	25%{
+		bottom: 10%;
+		left: 40%;
+	}
+	75%{
+		bottom: 40%;
+		left: 10%;
+	}
+}
+
+
+
+.blo33_i i{
+	margin-top: 4px;
+	width: 22px;
+	height: 22px;
+	font-size: 22px;
+	color: var(--cl);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.blo33_i > span{
+	margin-top: -3px;
+	font-size: 30px;
+	color: var(--cl);
+	display: block;
+}
+
+.blo33_iw2{
+	position: relative;
+	width: 22px;
+	height: 22px;
+}
+.blo33_iwc{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.blo33_ic{
+	width: calc(100% - 54px);
+	position: relative;
+	padding-left: 18px;
+	position: relative;
+	font-size: 16px;
+	line-height: 1.6;
+	font-weight: 400;
+}
+@media (max-width: 375px) {
+	.blo33_ic{
+		width: calc(100% - 44px);
+		padding-left: 15px;
+	}
+}
