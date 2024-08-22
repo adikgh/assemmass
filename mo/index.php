@@ -286,7 +286,7 @@
    <div class="blo8" id="price">
       <div class="bl_c">
          <div class="blo8_c">
-            <div class="blo8_ci blo8_ci2 blo8_c78">
+            <div class="blo8_ci blo8_c78 blo8_c_mrf">
                <div class="blo8_cin">Тариф</div>
                <ul class="blo8_ciс">
                   <li><i class="fal fa-plus"></i><span>Доступ 6 месяца</span></li>
@@ -302,7 +302,8 @@
                <br>
                <div class="blo8_cip">
                   <div class="blo8_cipo">
-                     <div class="blo8_cipoi">600 000 тенге</div>
+                     <div class="blo8_cipoi">800 000 тенге</div>
+                     <div class="blo8_cipoi blo8_cipoi_mrf">750 000 тенге</div>
                   </div>
                   <div class="blo8_cip_btn">
                      <a class="btn" data-price="102 000" data-price2="86 700" href="<?=$whatsapp?>?text=<?=$wh_txt1?>" target="_blank">Купить курс</a>
