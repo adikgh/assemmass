@@ -23,7 +23,7 @@
                <div class="blo1_tsi">Моторный онтогенез</div>
                <div class="blo1_tsi">
                   <span>Страт курса:</span>
-                  <p>20 май</p>
+                  <p>20-23 сентябрь</p>
                </div>
                <div class="blo1_tsi">
                   <span>Длительность:</span>
